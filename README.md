@@ -20,3 +20,6 @@ ResilienceAI is a machine learning-based platform designed to forecast floods an
 ## Live Backend
 ```bash
    https://resilienceai.netlify.app/
+```
+
+##(Note: Real-time prediction page is in development stage)
